@@ -1,10 +1,20 @@
-.container{
+body{
+   background-image: url("../images/wallpaper.jpg");
+}
 
+
+.container{
+  text-align: center;
 }
 
 .wrap{
 	text-align: center;
 	margin-top: 40px;
+}
+
+.wrap2{
+  text-align: center;
+  margin-top: 40px;
 }
 
 .button {
@@ -34,4 +44,46 @@
   width: 400px;
   margin: 5px;
   
+}
+
+p {
+  font-weight: bold;
+  font-size: 25px;
+  background-color: #ffffff;
+  padding: 20px;
+
+}
+
+span {
+  font-weight: bold;
+  font-size: 25px; 
+}
+
+.instruct {
+  margin-top: 40px;
+  font-size: 25px;
+  padding: 10px;
+  background-color: #ffffff;
+
+}
+
+.catimage{
+  margin-top: 40px;
+}
+
+.answers{
+  font-size: 25px;
+}
+.question{
+  color: #009900;
+}
+.gameQuestions {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.results2{
+  padding: 30px;
+  background-color: #ffffff;
+  font-size: 30px;
 }
